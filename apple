@@ -1,3 +1,40 @@
-this is wrong. line is missing
+# HTML DOC
 
-I am in in developer branch
+<!DOCTYPE html>
+<html>
+<head>
+      <title> FIRST TEST </title>
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+ </head>
+ <body>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+       <header>
+           <div class="main">
+               <div class="logo">
+                   <img src="LOGO.png">
+                <ul>
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="#">Service</a></li>
+                    <li><a href="#">Gallery</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact us</a></li>
+                </ul>
+            </div>
+            <div class="title">
+                 <h1> FIRST TEST </h1>
+            </div>
+
+            <div class='button'>
+                 <a href="#" class="btn">WATCH VIDEO</a>
+                 <a href="#" class="btn">LERAN MORE</a>
+            </div>
+        </header>
+ </body>
+ </html>
